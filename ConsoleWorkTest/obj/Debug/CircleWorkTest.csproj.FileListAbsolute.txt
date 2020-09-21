@@ -1,0 +1,17 @@
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\ConsoleWorkTest.dll
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\ConsoleWorkTest.pdb
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\CircleWork.exe
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\CircleWork.pdb
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\CircleWork.exe.config
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\obj\Debug\CircleWorkTest.csprojAssemblyReference.cache
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\obj\Debug\CircleWorkTest.csproj.CoreCompileInputs.cache
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\obj\Debug\CircleWorkTest.csproj.CopyComplete
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\obj\Debug\ConsoleWorkTest.dll
+E:\NURE\C#\Workspace\CircleWork\ConsoleWorkTest\obj\Debug\ConsoleWorkTest.pdb

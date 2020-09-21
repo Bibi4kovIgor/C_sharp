@@ -1,0 +1,7 @@
+E:\NURE\C#\Workspace\CircleWork\CircleWork\bin\Debug\CircleWork.exe.config
+E:\NURE\C#\Workspace\CircleWork\CircleWork\bin\Debug\CircleWork.exe
+E:\NURE\C#\Workspace\CircleWork\CircleWork\bin\Debug\CircleWork.pdb
+E:\NURE\C#\Workspace\CircleWork\CircleWork\obj\Debug\CircleWork.csprojAssemblyReference.cache
+E:\NURE\C#\Workspace\CircleWork\CircleWork\obj\Debug\CircleWork.csproj.CoreCompileInputs.cache
+E:\NURE\C#\Workspace\CircleWork\CircleWork\obj\Debug\CircleWork.exe
+E:\NURE\C#\Workspace\CircleWork\CircleWork\obj\Debug\CircleWork.pdb
